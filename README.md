@@ -15,3 +15,5 @@ To use this repository, you will need to have PHP and MySQL installed on your sy
 
 * Download and install PHP
 * Download and install MySQL
+
+## Contributions
