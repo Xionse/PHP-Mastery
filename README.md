@@ -17,3 +17,6 @@ To use this repository, you will need to have PHP and MySQL installed on your sy
 * Download and install MySQL
 
 ## Contributions
+1. Fork the Repo
+2. Make the changes
+3. make a pull request 
